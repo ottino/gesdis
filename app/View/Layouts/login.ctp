@@ -51,7 +51,7 @@ $cakeDescription = CONST_TITULO;
 			<?php echo $this->fetch('content'); ?>
 		</div>
 		<div id="footer">
-			Copyright 2012
+			Copyright 2015 - DesarrolloG
 		</div>
 	</div>
 	<?php echo $this->element('sql_dump'); ?>

@@ -242,7 +242,7 @@ define('MSJ_REP_ERR'     , 'Completar al menos alguno de estos 3 campos: ');
 define('MSG_AUTH_USR_PASS', 'Usuario y claves incorrectos');
 
 #Título del sistema
-define('CONST_TITULO', 'GesLab');
+define('CONST_TITULO', 'GesDis');
 
 #Mensajes para la Validacion del Modelo
 define('MSG_DATO_OBLIG', 'Este dato es obligatorio');
